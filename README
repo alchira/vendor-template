@@ -1,0 +1,22 @@
+# 📝 xcss-vendor-template
+
+This repository serves as the official template for creating and maintaining vendor-prefix data sets. The data produced here is designed for integration into the core xcss-vendors project.
+
+# 🚀 Getting Started
+
+To ensure your contributions are correctly formatted and integrated:
+
+# 👉 ALL INSTRUCTIONS AND GUIDELINES ARE LOCATED IN THE CONTRIBUTOR GUIDE.
+
+Please refer to the guide before cloning and submitting any data.
+
+# 🤝 Contributions
+
+If you wish to contribute a vendor data set:
+1. Clone this repository.
+2. Structure your data according to the [Repository Structure and Data Guidelines] specified in the Contributor Guide.
+3. Follow the steps under [Contributions and Integration] to submit your work for review.
+
+# ⚖️ Licensing
+
+All content and contributions are governed by the LICENSE file in the repository root. Do not modify the license file. 
