@@ -6,7 +6,7 @@ This repository is the official template for creating and maintaining vendor-pre
 
 To ensure your contributions are correctly formatted and easily integrated:
 
-- Review the README in the [@yshell-dev/xcss-vendors](https://github.com/yshell-dev/xcss-vendors) repository before cloning or submitting any data.
+- Review the README in the [@yshelldev/xcss-vendors](https://github.com/yshelldev/xcss-vendors) repository before cloning or submitting any data.
 
 ## 🤝 Contributing
 
