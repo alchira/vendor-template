@@ -1,4 +1,4 @@
-# 📝 xcss-vendor-template
+# 📝 Xtatix Vendor Template
 
 This repository is the official template for creating and maintaining vendor-prefix data sets. All data produced here is designed for integration into the core xcss-vendors project.
 
@@ -6,7 +6,7 @@ This repository is the official template for creating and maintaining vendor-pre
 
 To ensure your contributions are correctly formatted and easily integrated:
 
-- Review the README in the [@yshelldev/xcss-vendors](https://github.com/yshelldev/xcss-vendors) repository before cloning or submitting any data.
+- Review the README in the [xtatixone/vendor-sources](https://github.com/xtatixone/vendor-sources) repository before cloning or submitting any data.
 
 ## 🤝 Contributing
 
