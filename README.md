@@ -1,6 +1,6 @@
 # 📝 Xtatix Vendor Template
 
-This repository is the official template for creating and maintaining vendor-prefix data sets. All data produced here is designed for integration into the core xcss-vendors project.
+This repository is the official template for creating and maintaining vendor-prefix data sets. All data produced here is designed for integration into the core xtatix-vendors project.
 
 ## 🚀 Getting Started
 
