@@ -1,12 +1,12 @@
-# 📝 Xtatix Vendor Template
+# 📝 Alchira Vendor Template
 
-This repository is the official template for creating and maintaining vendor-prefix data sets. All data produced here is designed for integration into the core xtatix-vendors project.
+This repository is the official template for creating and maintaining vendor-prefix data sets. All data produced here is designed for integration into the core alchira-vendors project.
 
 ## 🚀 Getting Started
 
 To ensure your contributions are correctly formatted and easily integrated:
 
-- Review the README in the [xtatixone/vendor-sources](https://github.com/xtatixone/vendor-sources) repository before cloning or submitting any data.
+- Review the README in the [alchira/vendor-sources](https://github.com/alchira/vendor-sources) repository before cloning or submitting any data.
 
 ## 🤝 Contributing
 
