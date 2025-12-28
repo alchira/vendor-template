@@ -13,15 +13,13 @@ To ensure your contributions are correctly formatted and easily integrated:
 Want to contribute a vendor data set?
 
 1. Clone this repository.
-2. Structure your data according to the [Repository Structure and Data Guidelines] in the Contributor Guide.
-3. Follow the steps under [Contributions and Integration] to submit your work for review.
+2. Structure your data according to the [Repository Structure and Data Guidelines](https://github.com/alchira/vendor-sources?tab=readme-ov-file#%EF%B8%8F-repository-structure-and-data-guidelines) in the Contributor Guide.
+3. Follow the steps under [Contributions and Integration](https://github.com/alchira/vendor-sources?tab=readme-ov-file#-contributions-and-integration) to submit your work for review.
 
 ## 📝 README Updates
 
 You are encouraged to enhance or modify this README to help future contributors.  
 However:
-
-- **Do NOT alter, overwrite, or modify the LICENSE file under any circumstances.**
 
 ## ⚖️ License
 
